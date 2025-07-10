@@ -1,0 +1,6 @@
+<Mod
+    name="Bruh Sound Effect"
+    description = "Adds the bruh sound effect on game over."
+    request_no_api_restrictions = "0"
+>
+</Mod>
